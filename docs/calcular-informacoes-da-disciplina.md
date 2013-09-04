@@ -1,10 +1,17 @@
-Caso de Uso: Calcular Informações da Disciplina (notas e presenças)
-Ator Primário: Sistema
+# Calcular Informações da Disciplina (notas e presenças)
 
-Pré-Condições:
-- Disciplina Cadastrada
+__Escopo__: Calendário Acadêmico
 
-Fluxo Principal:
+__Nível__: Objetivo do usuário
+
+__Ator principal__: Sistema
+
+__Pré-Condições__: Disciplina Cadastrada
+
+__Pós-Condições__: o sistema salva as novas informações de presenças da disciplina e calcula a frequência atual do aluno.
+
+## Fluxo básico
+
 1. O sistema percorre todos os dias de aula cadastrados contando o número total de aulas dadas e o número de presenças.
 2. O sistema utiliza os dados obtidos no fluxo anterior para obter a média percentual de presença, ou seja, presença = [(número de presenças)/(número total de aulas dadas)]*100
 3. O sistema informa a presença calculada.
@@ -12,10 +19,10 @@ Fluxo Principal:
 5. O sistema identifica a ordem das avaliações e seus respectivos pesos para então aplicar na fórmula da média final.
 6. O sistema informa a média calculada.
 
-Fluxo Alternativo:
-4.a Não há todas as notas necessárias para o cálculo da média.
- 1. O sistema informa ao usuário as notas faltantes.
-5.a Nenhuma fórmula foi especificada
+## Fluxo alternativo
+
+`4a`. Não há todas as notas necessárias para o cálculo da média
+ 1.   O sistema informa ao usuário as notas faltantes.
+ 
+`5a`. Nenhuma fórmula foi especificada
  1. O sistema informa ao usuário a não especificação da fórmula.
-
-
