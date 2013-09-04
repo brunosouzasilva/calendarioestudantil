@@ -1,39 +1,39 @@
-# Caso de Uso: Criar Disciplina
+# Criar Disciplina
 
-## Ator Primário:
+__Escopo__: Calendário Acadêmico
 
-+ Estudante
+__Nível__: Objetivo do usuário
 
-## Stakeholders e seus interesses
+__Ator Primário__: Usuário
 
-+ Estudante: Quer facilidade, sem erros de formatação da disciplina.
+__Stakeholders e seus interesses__
 
-## Precondições:
++ Usuário: Quer facilidade, sem erros de formatação da disciplina.
 
-+ A criação da disciplina é livre de pré requesitos.
+__Poscondições__: A sessão do usuário é atualizada e reorganizada.
 
-Quando o usuário tenta criar uma disciplina, ele acessa um local de criação de disciplinas, uma interface bastante prática e rápida. Que irá formatar o nome da disciplina na grade de horários. A sessão do usuário, no caso o estudante, é atualizada e organizada pós preenchimento.
+## Fluxo Básico
 
-# Fluxo Básico:
+1. O estudante aciona o evento editar disciplina.
++ O sistema fornece um subnível de opções.
++ O aplicativo (sistema) salva as informações da disciplina, atualiza, e organiza a grade.
++ O estudante repete os passos 3-4 até que tenha terminado o processo todo.
++ O sistema apresenta a nova grade, pós atualização.
++ O sistema faz um log das novas mudanças.
++ O usuário poderá checar se está tudo certo. E se organizar a partir da sua grade de disciplinas.
 
-1. O estudante aciona a aplicação.
-2. O estudante aciona o evento editar disciplina (interface prática de opções).
-3. O sistema fornece um subnível de opções
-4. O aplicativo (sistema) salva as informações da disciplina, atualiza, e organiza a grade.
-6. O estudante repete os passos 3-4 até que tenha terminado o processo todo.
-7. O sistema apresenta a nova grade, pós atualização.
-8. O sistema faz um log das novas mudanças.
-9. O usuário poderá checar se está tudo certo. E se organizar a partir da sua grade de disciplinas.
+## Fluxo Alternativo
 
-# Fluxo Alternativo:
+*a. Se a qualquer momento, o sistema travar:
 
-- Se a qualquer momento, o sistema travar:
-
-> O sistema irá suportar restauração, para que o usuário possa voltar da onde parou.
-
-1. O usuário acessa o aplicativo.
-+ O usuário volta na inteface de opções e tenta criar novamente as disciplinas.
-+ O sistema tenta recuperar o que estava sendo escrito.
-  + Aquelas disciplinas já posteriormente inseridas e não salvas voltam.
-  + Aquelas que o sistema não conseguiu entender e interpretar, saem.
-+ Nenhum aviso disso será exposto ao usuário, na criação da disciplina.
+<div style="margin-left:30px">
+  <ol>
+    <li>O sistema irá suportar restauração, para que o usuário possa voltar da onde parou.</li>
+    <li>O usuário acessa o aplicativo.</li>
+    <li>O usuário volta na inteface de opções e tenta criar novamente as disciplinas.</li>
+    <li>O sistema tenta recuperar o que estava sendo escrito.</li>
+    <li>Aquelas disciplinas já posteriormente inseridas e não salvas voltam.</li>
+    <li>Aquelas que o sistema não conseguiu entender e interpretar, saem.</li>
+    <li>Nenhum aviso disso será exposto ao usuário, na criação da disciplina.</li>
+  </ol>
+</div>
