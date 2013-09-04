@@ -19,7 +19,7 @@ __Pós-condições__: A disciplina e todas as suas referências são excluídas 
 1. O usuário seleciona a disciplina que deseja excluir.
 + O sistema pede confirmação da exclusão.
 + O sistema registra as deleções feitas pelo usuário.
-+ O sistema atualize e organiza a grade.
++ O sistema atualiza e organiza a grade.
 
 ## Fluxo alternativo
 

@@ -6,7 +6,7 @@ __Nível__: Objetivo do usuário
 
 __Ator principal__: Usuário
 
-__Pré-condições__: Ao menos uma disciplina deve estar cadastrada
+__Pré-condições__: Ao menos uma disciplina deve estar cadastrada.
 
 __Pós-Condições__: Aula se torna disponível para visualização.
 

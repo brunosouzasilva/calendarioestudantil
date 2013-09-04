@@ -4,7 +4,7 @@ __Escopo__: Calendário Acadêmico
 
 __Nível__: Objetivo do usuário
 
-__Ator principal__: Sistema (tempo)
+__Ator principal__: Sistema
 
 __Stakeholders e seus interesses__:
 
