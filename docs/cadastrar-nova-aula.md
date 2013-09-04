@@ -23,7 +23,7 @@ __Pós-Condições__:
 `1a`. Ausência de disciplina {??}
  1.   Impede a criação da aula
  
-`5a`. Horário informado já está ocupado por outro compromisso.
+`4a`. Horário informado já está ocupado por outro compromisso.
  1. Informa ao usuário a indisponibilidade de cadastrar aula nesse horário.
  2. Impede a criação da aula.
  
