@@ -12,7 +12,7 @@
 
 + O sistema deve conter uma grade, pelo menos, com disciplinas e horários.
 
-Quando o usuário tenta criar uma disciplina, ele acessa um local de criação de disciplinas, uma interface bastante prática e rápida. Que irá formatar o nome da disciplina na grade de horários. A sessão do usuário, no caso o estudante, é atualizada e organizada pós preenchimento.
+Quando o usuário tenta editar uma disciplina, ele acessa um local de edição das disciplinas, uma interface bastante prática e rápida. Para edição o usuário bastará clicar no campo e o sistema se encarrega de abrir um janela de campos para que o usuário possa re-preencher o que ele quiser sobre a disciplina.
 
 # Fluxo Básico:
 
