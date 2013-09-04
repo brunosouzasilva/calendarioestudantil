@@ -4,6 +4,9 @@ Visamos uma aplicação para a plataforma Android® de um calendário acadêmico
 
 ### Motivação
 
+Sabe-se que alunos organizados possuem bom desempenho acadêmico. Além disso, ser organizado, implica em um melhor aproveitamento do tempo, tanto para estudos como para o lazer, porém ser organizado é uma tarefa difícil.
+Essa tarefa exige anotar horários de aula, data de provas e trabalhos, e mais informações em agenda, caderno, folhas de papel, etc. Estar constantemente atento às anotações para não esquecer datas importantes. Tomar cuidado em não perder ou esquecer onde anotou aquela informação importante. Hmm,acho que está por aqui, hmm não, talvez no caderno laranja... Essa é uma situação que ninguém quer passar, não é mesmo? O aplicativo que estamos propondo visa eliminar essas barreiras, facilitando o cotidiano de um aluno, agora, organizado.
+
 Aplicações de calendário para sistemas operacionais tradicionais não atendem à
 demanda vinda do crescente número de usuários de dispositivos móveis em geral.
 Calendários pré-instalados em celulares e smartphones e muitos outros disponíveis
