@@ -1,28 +1,29 @@
 # Caso de Uso: Excluir Disciplina
 
-## Ator Primário:
+__Escopo__: Calendário Acadêmico
 
-+ Estudante
+__Nível__: Objetivo do usuário
 
-## Stakeholders e seus interesses:
+__Ator principal__: Usuário
 
-+ Estudante: Quer facilidade, sem erros de formatação da disciplina.
+__Stakeholders e seus interesses__:
 
-## Precondições:
++ Usuário: Quer facilidade, sem erros de formatação da disciplina.
 
-+ O sistema deve conter uma grade, pelo menos, com disciplinas e horários.
+__Precondições__: Ao menos uma disciplina deve estar cadastrada.
 
-Quando o usuário tenta excluir uma disciplina, ele acessa um local de exclusão de disciplinas, uma interface bastante prática e rápida. Que fornece uma lista breve de opções para exclusão total ou parcial.
+__Poscondições__: A disciplina e todas as suas referências são excluídas (horários, avaliações, frequência etc).
 
 # Fluxo Básico:
 
-1. O estudante aciona a aplicação.
-+ O estudante aciona o evento excluir disciplina (interface prática de opções).
-+ O sistema fornece algumas opções para remover.
+1. O usuário seleciona a disciplina que deseja excluir.
++ O sistema pede confirmação da exclusão.
 + O sistema registra as deleções feitas pelo usuário.
 + O sistema atualize e organiza a grade.
-  + Caso não exista mais grade o sistema avisa ao usuário.
-  + O sistema entra no modo, esperando por novas criações (caso de uso criar disciplina) de disciplina.
-     + O sistema verificou que pós deleções ainda existe grade de horários montada.
-     + O sistema apresenta a nova grade, pós deleções.
-     + O usuário poderá checar se está tudo certo. E se organizar a partir da sua grade de disciplinas.
+
+# Fluxo alternativo:
+
+`2a`. O usuário não confirma a exclusão
+
+  1. O registro da disciplina é mantido. Nada é alterado
+  + O caso de uso é encerrado
