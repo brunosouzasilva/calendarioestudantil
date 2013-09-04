@@ -29,13 +29,13 @@ para download são abrangentes e não contam com soluções especializadas a alu
 Equipe
 ========
 
-- Lucas Tonussi [tonussi]
+- Lucas Tonussi ([tonussi])
 
-- Carlos Bonetti [bonetti]
+- Carlos Bonetti ([bonetti])
 
-- Thiago Rose [rose]
+- Thiago Rose ([rose])
 
-- Bruno Silva [silva]
+- Bruno Silva ([silva])
 
 
 Licença
@@ -85,5 +85,5 @@ Iteração 2. (0.25 ponto)
 [1]: http://www.android.com "Android"
 [tonussi]: https://github.com/tonussi "Lucas Tonussi"
 [bonetti]: https://github.com/CarlosBonetti "Carlos Bonetti"
-[thisenrose]: https://github.com/thisenrose "Thiago Rose"
+[rose]: https://github.com/thisenrose "Thiago Rose"
 [silva]: https://github.com/brunosouzasilva "Bruno Silva"
