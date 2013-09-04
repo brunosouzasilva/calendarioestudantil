@@ -6,7 +6,7 @@ __Nível__: Objetivo do usuário
 
 __Ator principal__: Usuário
 
-__Interessados e interesses__:
+__Stakeholders e seus interesses__:
 
 * Usuário: além de poder marcar as próprias faltas, deseja flexibilidade para poder marcar aulas que eventualmente sejam canceladas.
 

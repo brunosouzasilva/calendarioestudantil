@@ -1,10 +1,10 @@
 # Caso de Uso: Listar Disciplina
 
-## Ator Primário: 
+## Ator Primário:
 
 + Estudante
 
-## Stakeholders:
+## Stakeholders e seus interesses:
 
 + Estudante: Quer facilidade, sem erros de listagem das disciplinas.
 

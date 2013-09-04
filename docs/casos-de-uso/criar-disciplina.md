@@ -1,14 +1,14 @@
 # Caso de Uso: Criar Disciplina
 
-## Ator Primário: 
+## Ator Primário:
 
 + Estudante
 
-## Stakeholders:
+## Stakeholders e seus interesses
 
 + Estudante: Quer facilidade, sem erros de formatação da disciplina.
 
-## Precondições: 
+## Precondições:
 
 + A criação da disciplina é livre de pré requesitos.
 

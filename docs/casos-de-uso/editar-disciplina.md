@@ -1,14 +1,14 @@
 # Caso de Uso: Editar Disciplina
 
-## Ator Primário: 
+## Ator Primário:
 
 + Estudante
 
-## Stakeholders:
+## Stakeholders e seus interesses:
 
 + Estudante: Quer facilidade, sem erros na edição da disciplina, por exemplo grade de horários mal formatada.
 
-## Precondições: 
+## Precondições:
 
 + O sistema deve conter uma grade, pelo menos, com disciplinas e horários.
 

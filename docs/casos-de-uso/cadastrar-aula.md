@@ -6,7 +6,7 @@ __Nível__: Objetivo do usuário
 
 __Ator principal__: Usuário
 
-__Pós-Condições__: 
+__Pós-Condições__:
 
 1. Aula disponível para visualização.
 2. Ocupa no calendário os horários da aula.
@@ -22,9 +22,9 @@ __Pós-Condições__:
 
 `1a`. Ausência de disciplina {??}
  1.   Impede a criação da aula
- 
+
 `4a`. Horário informado já está ocupado por outro compromisso.
  1. Informa ao usuário a indisponibilidade de cadastrar aula nesse horário.
  2. Impede a criação da aula.
- 
+
 

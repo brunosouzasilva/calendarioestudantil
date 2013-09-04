@@ -6,7 +6,7 @@ __Nível__: Subfunção
 
 __Ator principal__: Usuário
 
-__Interessados e interesses__:
+__Stakeholders e seus interesses__:
 
 * Usuário: deseja criar, alterar ou excluir notificações correspondentes a uma disciplina.
 

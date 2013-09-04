@@ -6,7 +6,7 @@ __Nível__: Objetivo do usuário
 
 __Ator principal__: Sistema (tempo)
 
-__Interessados e interesses__:
+__Stakeholders e seus interesses__:
 
 * Usuário: deseja ser avisado sobre avaliação marcada no horário e dia estipulados.
 
