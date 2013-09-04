@@ -8,7 +8,7 @@ __Ator principal__: Sistema
 
 __Pré-Condições__: Disciplina Cadastrada
 
-__Pós-Condições__: o sistema salva as novas informações de presenças da disciplina e calcula a frequência atual do aluno.
+__Pós-Condições__: O sistema salva as novas informações de presenças da disciplina e calcula a frequência atual do aluno.
 
 ## Fluxo básico
 
