@@ -1,4 +1,4 @@
-# Calcular Informações da Disciplina (notas e presenças)
+# Calcular Informações de Disciplina (notas e presenças)
 
 __Escopo__: Calendário Acadêmico
 
