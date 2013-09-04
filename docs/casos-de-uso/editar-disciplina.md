@@ -1,20 +1,20 @@
 # Caso de Uso: Editar Disciplina
 
-## Ator Primário:
+__Escopo__: Calendário Acadêmico
 
-+ Estudante
+__Nível__: Objetivo do usuário
 
-## Stakeholders e seus interesses:
+__Ator principal__: Usuário
 
-+ Estudante: Quer facilidade, sem erros na edição da disciplina, por exemplo grade de horários mal formatada.
+__Stakeholders e seus interesses__:
 
-## Precondições:
+* Usuário: Quer facilidade, sem erros na edição da disciplina, por exemplo grade de horários mal formatada.
 
-+ O sistema deve conter uma grade, pelo menos, com disciplinas e horários.
+__Pré-Condições__: O sistema deve conter uma grade, pelo menos, com disciplinas e horários.
 
 Quando o usuário tenta editar uma disciplina, ele acessa um local de edição das disciplinas, uma interface bastante prática e rápida. Para edição o usuário bastará clicar no campo e o sistema se encarrega de abrir um janela de campos para que o usuário possa re-preencher o que ele quiser sobre a disciplina.
 
-# Fluxo Básico:
+## Fluxo Básico
 
 1. O estudante aciona a aplicação.
 + O estudante aciona o evento editar disciplina numa interface prática de opções.
@@ -26,11 +26,11 @@ Quando o usuário tenta editar uma disciplina, ele acessa um local de edição d
 + O sistema faz um log das novas mudanças.
 + O usuário poderá checar se está tudo certo. E se organizar a partir da sua grade de disciplinas.
 
-# Fluxo Alternativo:
+## Fluxo Alternativo
 
-- Se a qualquer momento, o sistema travar:
+*a. Se a qualquer momento, o sistema travar:
 
-> O sistema irá suportar restauração, para que o usuário possa voltar da onde parou.
+  1. O sistema irá suportar restauração, para que o usuário possa voltar da onde parou.
 
 1. O usuário acessa o aplicativo.
 + O usuário volta na inteface de opções e tenta editar novamente as disciplinas.

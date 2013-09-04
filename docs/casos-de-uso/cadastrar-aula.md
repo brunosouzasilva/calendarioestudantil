@@ -20,6 +20,7 @@ __Pós-Condições__: Aula se torna disponível para visualização.
 ## Fluxo alternativo
 
 `4a`. Horário informado já está ocupado por outro compromisso.
- 1. Informa ao usuário a indisponibilidade de cadastrar aula nesse horário.
- 2. Impede a criação da aula.
- 3. O caso de uso é encerrado.
+
+  1. Informa ao usuário a indisponibilidade de cadastrar aula nesse horário.
+  2. Impede a criação da aula.
+  3. O caso de uso é encerrado.

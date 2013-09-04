@@ -10,15 +10,15 @@ __Stakeholders e seus interesses__:
 
 * Usuário: deseja ser avisado sobre avaliação marcada no horário e dia estipulados.
 
-__Pré-Condições__: ter sido criado um alerta para a avaliação; o sistema deverá observar que existe um alerta ajustado para o horário e data correntes.
+__Pré-Condições__: ter sido criado um lembrete para a avaliação; o sistema deverá observar que existe um lembrete ajustado para o horário e data correntes.
 
-__Pós-Condições__: o sistema pára a execução do alerta.
+__Pós-Condições__: o sistema pára a execução do lembrete.
 
 ## Fluxo básico
 
-1. O sistema dispara um alerta, podendo este ser sonoro, visual ou ambos, de acordo com as definições ajustadas pelo usuário previamente para o alerta.
-2. O sistema propõe ao usuário a função de postergar o alerta, para que ele seja disparado novamente após um curto período de tempo predeterminado.
-3. O usuário não aceita que o alerta seja postergado (cancela o alarme).
+1. O sistema dispara um lembrete, podendo este ser sonoro, visual ou ambos, de acordo com as definições ajustadas pelo usuário previamente para o lembrete.
+2. O sistema propõe ao usuário a função de postergar o lembrete, para que ele seja disparado novamente após um curto período de tempo predeterminado.
+3. O usuário não aceita que o lembrete seja postergado (cancela o alarme).
 
 ## Fluxo alternativo
 

@@ -6,7 +6,7 @@ __Nível__: Objetivo do usuário
 
 __Ator principal__: Usuário
 
-__Stakeholders e interesses__:
+__Stakeholders e seus interesses__:
 
 * Usuário: deseja cadastrar avaliações para poder consultar suas próximas tarefas com facilidade e ser alertado com antecedência (configurável) sobre próximas avaliações
 

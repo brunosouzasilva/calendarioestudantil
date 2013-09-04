@@ -22,7 +22,9 @@ __Pós-Condições__: O sistema salva as novas informações de presenças da di
 ## Fluxo alternativo
 
 `4a`. Não há todas as notas necessárias para o cálculo da média
- 1.   O sistema informa ao usuário as notas faltantes.
- 
+
+  1. O sistema informa ao usuário as notas faltantes.
+
 `5a`. Nenhuma fórmula foi especificada
- 1. O sistema informa ao usuário a não especificação da fórmula.
+
+  1. O sistema informa ao usuário a não especificação da fórmula.

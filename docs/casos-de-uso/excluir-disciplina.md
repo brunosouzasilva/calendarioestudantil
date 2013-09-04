@@ -1,4 +1,4 @@
-# Caso de Uso: Excluir Disciplina
+# Excluir Disciplina
 
 __Escopo__: Calendário Acadêmico
 
@@ -8,20 +8,20 @@ __Ator principal__: Usuário
 
 __Stakeholders e seus interesses__:
 
-+ Usuário: Quer facilidade, sem erros de formatação da disciplina.
+* Usuário: Quer facilidade, sem erros de formatação da disciplina.
 
-__Precondições__: Ao menos uma disciplina deve estar cadastrada.
+__Pré-condições__: Ao menos uma disciplina deve estar cadastrada.
 
-__Poscondições__: A disciplina e todas as suas referências são excluídas (horários, avaliações, frequência etc).
+__Pós-condições__: A disciplina e todas as suas referências são excluídas (horários, avaliações, frequência etc).
 
-# Fluxo Básico:
+## Fluxo Básico
 
 1. O usuário seleciona a disciplina que deseja excluir.
 + O sistema pede confirmação da exclusão.
 + O sistema registra as deleções feitas pelo usuário.
 + O sistema atualize e organiza a grade.
 
-# Fluxo alternativo:
+## Fluxo alternativo
 
 `2a`. O usuário não confirma a exclusão
 
