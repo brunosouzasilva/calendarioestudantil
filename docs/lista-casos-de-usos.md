@@ -5,7 +5,7 @@ Lista dos casos de usos e seus arquivos:
 3. editar-disciplina 	[Lucas]
 4. listar-disciplina 	[Lucas]
 5. calcular-informacoes-da-disciplina [Thiago]
-6. cadastrar-nova-aula 	[Thiago]
+6. cadastrar-aula 	[Thiago]
 7. criar-avaliacao-para-disciplina [Carlos]
 8. apagar-avaliacao-de-disciplina [Carlos]
 9. editar-avaliacao-de-disciplina [Carlos]
