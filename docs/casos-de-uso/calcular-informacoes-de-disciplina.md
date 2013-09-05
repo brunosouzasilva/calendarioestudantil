@@ -10,19 +10,16 @@ __Pré-Condições__: Ao menos uma disciplina está cadastrada.
 
 ## Fluxo básico
 
-1. O aluno seleciona a disciplina para a qual deseja visualizar estatísticas.
-2. O sistema calcula a frequência do aluno com base nas presenças e aulas cadastradas.
-3. O sistema calcula a média do aluno com base na fórmula da nota final da disciplina e as avaliações cadastradas.
-4. O sistema retorna as estatísticas da disciplina.
+1. Para cada disciplina existente, o sistema calcula a frequência do usuário naquela disciplina com base em suas presenças.
+2. Para cada disciplina existente, o sistema calcula a média parcial do usuário com base na fórmula de avaliação descrita pelo mesmo para aquela disciplina.
 
 ## Fluxo alternativo
 
-`3a`. Não há todas as notas necessárias para o cálculo da média
+`2a`. Não há todas as notas necessárias para o cálculo da média
 
   1. O sistema informa ao usuário as notas faltantes.
   2. O caso de uso é encerrado.
 
-`3b`. Nenhuma fórmula foi especificada
+`2b`. Nenhuma fórmula foi especificada pelo usuário
 
-  1. O sistema informa ao usuário a não especificação da fórmula.
-  2. O caso de uso é encerrado.
+  1. O sistema utiliza como fórmula de avaliação padrão a média aritimética simples entre as avaliações existentes para aquela disciplina.
