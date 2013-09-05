@@ -12,4 +12,4 @@ __Pós-Condições__:
 * av recebeu título.
 * av recebeu data.
 * av recebeu hora.
-* av recebeu observações;
+* av recebeu observações.
