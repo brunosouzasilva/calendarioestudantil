@@ -6,7 +6,7 @@ __Nível__: Objetivo do usuário
 
 __Ator principal__: Usuário
 
-__Interessados e interesses__:
+__Stakeholders e seus interesses__:
 
 * Usuário: deseja alterar informações sobre uma avaliação já cadastrada.
 
